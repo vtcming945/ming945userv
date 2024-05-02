@@ -1,0 +1,7 @@
+api_base: "/v1"
+deployment_config:
+  - deployment_name: "vtc-openai"
+    model_name: "uServ-OpenAI-Testing-Env"
+    endpoint: "https://vtc-openai.openai.azure.com/"
+    api_key: "0b4b708b1eb7476c938af60b0f30ecad"
+    api_version: "2023-09-01-preview"
